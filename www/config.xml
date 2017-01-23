@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.sistema_solar_ory"
+        id          = "cat.numancia.sistema_solar_icv"
         versionCode = "1" 
         version     = "0.0.01" >
 	
@@ -13,11 +13,11 @@
    <name>Sistema Solar</name>
 
    <description>
-       Sistema Solar de 2n d'ESO A fet per Oscar Roman
+       Sistema Solar de 2n d'ESO A fet per Ivan Cuadrado
     </description>
 
-    <author href="https://numancia.cat/intranet" email="oscar.roman@numancia.cat">
-       Oscar Roman
+    <author href="https://numancia.cat/intranet" email="icuadrado96@iesnumancia.cat">
+       Ivan Cuadrado
     </author>
 
 	<content src="index.html"/>
